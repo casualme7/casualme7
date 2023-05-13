@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my private app with a bunch of fun features**
 
-- 🌱 I’m actively learning **React.js, and going through react.doc's**
+- 🌱 I’m actively learning **React.js and cementing my knowledge by going through <a href="https://react.dev/">react docs</a> multiple times**
 
 - 👨‍💻 Even though i'm working on many personal projects, you can check out some of them bellow:
   - <a href="https://v0ltage.netlify.app">Voltage</a> - A fun multi purpose app
