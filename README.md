@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **my private app with a bunch of fun features**
+- 🔭 I’m currently working on **my personal app with a bunch of fun features**
 
 - 🌱 I’m actively learning **React.js and cementing my knowledge by going through <a target="_blank" href="https://react.dev/">react docs</a> multiple times**
 
