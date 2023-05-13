@@ -1,8 +1,6 @@
 <h1 align="center">Ahoy traveler 👋, I'm Miljan Pantovic</h1>
 <h3 align="center">A passionate frontend developer from Serbia,</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=casualme7" alt="casualme7" /></a> </p>
-
 - 🔭 I’m currently working on **my private app with a bunch of fun features**
 
 - 🌱 I’m actively learning **React.js and cementing my knowledge by going through <a href="https://react.dev/">react docs</a> multiple times**
