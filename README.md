@@ -5,15 +5,10 @@
 
 
 
+- 👨‍💻 Developer with advanced knowledge in MERN stack.
+- 🌱 I’m actively perfecting **Node.js, Express and MongoDB as well as cementing my knowledge by going through <a target="_blank" href="https://react.dev/">React.js docs</a> multiple times.**
+
 - 🔭 I’m currently working on **my personal app with a bunch of fun features**
-
-- 🌱 I’m actively learning **Node.js, Express and MongoDB as well as cementing my knowledge by going through <a target="_blank" href="https://react.dev/">React.js docs</a> multiple times.**
-
-- 👨‍💻 Even though i'm working on many personal projects, you can check out some of them bellow:
-  - <a href="https://v0ltage.netlify.app">Voltage</a> - A fun multi purpose app
-  - <a href="https://allgetus.netlify.app/">Allgetus</a> - Small social network
-  - <a href="https://eloquent-flan-8a3c20.netlify.app/">Tiles: The Game</a> - Small scaled clone of Reddit's r/place
-  - <a href="https://tiny-dasik-33c5f8.netlify.app/">8-bit adventure:</a> - Small little memory minigame
 
 - 📫 How to reach me **miljan.pantovic@gmail.com**
 
