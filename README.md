@@ -1,5 +1,5 @@
 <h1 align="center">Ahoy traveler 👋 I'm Miljan Pantovic</h1>
-<h3 align="center">A passionate full-stack software engineer,</h3>
+<h3 align="center">A passionate full-stack software engineer</h3>
 
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=casualme7&" alt="casualme7" /></div>
 
