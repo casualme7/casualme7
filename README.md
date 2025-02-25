@@ -6,9 +6,15 @@
 
 
 - 👨‍💻 Developer with advanced knowledge in MERN stack.
-- 🌱 I’m actively perfecting **Node.js, Express and MongoDB as well as cementing my knowledge by going through <a target="_blank" href="https://react.dev/">React.js docs</a> multiple times.**
-
-- 🔭 I’m currently working on **my personal app with a bunch of fun features**
+- 🌱 Technical Proficiencies:
+  - React.js
+  - JavaScript & CSS
+  - Next.js 15
+  - React Native
+  - Express.js
+  - Developing Google Chrome Extensions
+ 
+    
 
 - 📫 How to reach me **miljan.pantovic@gmail.com**
 
