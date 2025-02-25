@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 Developer with advanced knowledge in MERN stack.
+- 👨‍💻 Engineer with advanced knowledge in MERN stack.
 - 🌱 Technical Proficiencies:
   - React.js
   - JavaScript & CSS
