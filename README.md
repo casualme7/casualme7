@@ -26,14 +26,8 @@
 - Built and shipped a wide range of products: real-time video and voice applications, interactive 3D games, browser extensions, and production-ready web platforms
 - AWS Certified Cloud Practitioner and AWS Certified Solutions Architect, Associate, with hands-on experience architecting and deploying real cloud infrastructure, not just writing code that runs on it
 - Prefers owning a project from idea to production: architecture, implementation, deployment, and every step between
-
 <br>
-
 <div>
-
-
-<br>
-
 ## Technologies
 
 **Frontend**
